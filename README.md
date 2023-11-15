@@ -46,7 +46,9 @@ The options for the viewer consist of viewing current data or adding to existing
 
 ![alt-text](assets/Screenshot(9).png)
 
-The option ‘Quit’ exits the application and returns the user to the command line.  98 
+The option ‘Quit’ exits the application and returns the user to the command line. 
+
+![alt-text](assets/Screenshot(10).png)
 
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://drive.google.com/file/d/1vAgXzhuJX-Qk0BNCKwDF2HpQzeu10bYg/view)
