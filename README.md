@@ -21,7 +21,7 @@ Installation is not needed to run the application; The application is run when t
 ## How to Use This Application:
 At the welcome screen, click the blue “Get Started” button. Screen shot 78 Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
 
-##Walkthrough Video
+## Walkthrough Video:
 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
