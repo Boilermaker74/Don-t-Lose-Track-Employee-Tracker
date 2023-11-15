@@ -36,8 +36,13 @@ Installation is unfortunately complicated. The first step requires a local copy 
 ![alt-text](assets/Screenshot(97).png)
 
 Make the directory ‘employee tracker' the working directory. Type ‘npm install’ to load the required npm packages. Finally type ‘node .’ to start the application. The process is recorded in the walkthrough video.
+
 ## How to Use This Application:
-At the welcome screen, click the blue “Get Started” button. Screen shot 78 Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
+Use of the application is straight forward. Once ‘node .’ is typed in the command line, the welcome banner is displayed. 
+
+![alt-text](assets/Screenshot(92).png)
+
+The options for the viewer consist of viewing current data or adding to existing data. If the user wishes to append the current database, the user will be prompted to add the appropriate information. Screen 95 The option ‘Quit’ exits the application and returns the user to the command line.  98 
 
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://drive.google.com/file/d/1vAgXzhuJX-Qk0BNCKwDF2HpQzeu10bYg/view)
