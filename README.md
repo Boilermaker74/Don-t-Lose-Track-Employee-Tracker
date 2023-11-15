@@ -77,7 +77,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Contributors
-Xpert Learning Assistant screenshot 84
+Xpert Learning Assistant                                                                                                                      
+
+![alt-text](assets/Screenshot(90).png)
+
+Patorjk.com [here](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Employee%20Tracker%20). 
+
+![alt-text](assets/Screenshot(89).png)
+
 ## Testing
 N/A
 ## Features
