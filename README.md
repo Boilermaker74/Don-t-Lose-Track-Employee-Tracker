@@ -42,7 +42,11 @@ Use of the application is straight forward. Once ‘node .’ is typed in the co
 
 ![alt-text](assets/Screenshot(98).png)
 
-The options for the viewer consist of viewing current data or adding to existing data. If the user wishes to append the current database, the user will be prompted to add the appropriate information. Screen 95 The option ‘Quit’ exits the application and returns the user to the command line.  98 
+The options for the viewer consist of viewing current data or adding to existing data. If the user wishes to append the current database, the user will be prompted to add the appropriate information. 
+
+![alt-text](assets/Screenshot(99).png)
+
+The option ‘Quit’ exits the application and returns the user to the command line.  98 
 
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://drive.google.com/file/d/1vAgXzhuJX-Qk0BNCKwDF2HpQzeu10bYg/view)
