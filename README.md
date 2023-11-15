@@ -34,7 +34,7 @@ I found working with MySQL especially challenging. I hope in future to add some 
 Installation is unfortunately complicated. The first step requires a local copy of the code to be cloned from the Boilermaker74 repo “Don't Lose Track Employee Tracker. The link is [HERE](https://github.com/Boilermaker74/Dont-Lose-Track-Employee-Tracker) The user must have Mysql installed on their machine. The installer program for MySQL can be located [here](https://dev.mysql.com/downloads/installer/).Once the repo code has been installed on the local machine, the user must make the directory ‘db’ the working directory. Type ‘MySQL -u root –p'. The program will prompt the user for their MySQL password:
 
 
-![alt-text](assets/Screenshot(92).png)
+![alt-text](assets/Screenshot(97.png)
 
 
 ## How to Use This Application:
