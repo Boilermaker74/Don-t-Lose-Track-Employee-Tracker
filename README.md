@@ -22,6 +22,27 @@ Installation is not needed to run the application; The application is run when t
 At the welcome screen, click the blue “Get Started” button. Screen shot 78 Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+MIT License
+
+Copyright (c) 2023 Walter Moleterno
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ## Contributors
 Xpert Learning Assistant screenshot 84
 ## Testing
