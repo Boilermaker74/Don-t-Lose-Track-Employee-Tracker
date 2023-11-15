@@ -93,6 +93,6 @@ Don't Lose Track Employee Tracker uses MySQL2 to store compny information.
 ![Github license](https://img.shields.io/badge/Language-JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-MySQL,NodeJs,Inquirer-blue.svg)
 ## Dependencies
-Inquirer version 6.3.1 and MySQL2 version 3.6.1 
+Inquirer version 8.2.4 and MySQL2 version 3.6.1 
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
