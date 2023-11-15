@@ -31,7 +31,7 @@ I found working with MySQL especially challenging. I hope in future to add some 
 * [Questions](#questions)
 
 ## Installation
-Installation is unfortuatatle 
+Installation is unfortunately complicated. The first step requires a local copy of the code to be cloned from the Boilermaker74 repo “Don't Lose Track Employee Tracker. The link is [HERE](https://github.com/Boilermaker74/Dont-Lose-Track-Employee-Tracker)) 
 ## How to Use This Application:
 At the welcome screen, click the blue “Get Started” button. Screen shot 78 Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
 
