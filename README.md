@@ -88,7 +88,7 @@ Patorjk.com [here](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Emp
 ## Testing
 N/A
 ## Features
-Don't Lose Track Employee Tracker uses MySQL to store compny information.
+Don't Lose Track Employee Tracker uses MySQL2 to store compny information.
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-MySQL-NodeJs-Inquirer-blue.svg)
