@@ -44,7 +44,7 @@ Use of the application is straight forward. Once ‘node .’ is typed in the co
 
 The options for the viewer consist of viewing current data or adding to existing data. If the user wishes to append the current database, the user will be prompted to add the appropriate information. 
 
-![alt-text](assets/Screenshot(99).png)
+![alt-text](assets/Screenshot(9).png)
 
 The option ‘Quit’ exits the application and returns the user to the command line.  98 
 
