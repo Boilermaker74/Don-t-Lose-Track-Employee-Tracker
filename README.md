@@ -23,7 +23,7 @@ At the welcome screen, click the blue “Get Started” button. Screen shot 78 T
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 MIT License
 
-Copyright (c) 2023 Walter Moleterno
+Copyright (c) 2023 Bradley Moleterno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
