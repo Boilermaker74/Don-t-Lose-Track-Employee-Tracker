@@ -7,7 +7,7 @@ I have never had a business or been in a position of authority over other human 
 ## Table of Contents
 * [Installation](#installation)
 * [How to Use This Application](#how-to-use-this-application)
-* [Walkthrough Video:](Walkthrough-Video:)
+* [Walkthrough Video:](#Walkthrough-Video:)
 * [Licenses](#Licenses)
 * [Contributors](#contributors)
 * [Testing](#testing)
