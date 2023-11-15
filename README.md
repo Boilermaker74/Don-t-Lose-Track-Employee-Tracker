@@ -83,16 +83,16 @@ Xpert Learning Assistant
 
 Patorjk.com [here](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Employee%20Tracker%20). 
 
-![alt-text](assets/Screenshot(89).png)
+![alt-text](assets/Screenshot(88).png)
 
 ## Testing
 N/A
 ## Features
 Don't Lose Track Employee Tracker uses MySQL to store compny information.
 ## Languages and Technologies Used
-![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
-![Github license](https://img.shields.io/badge/Technology-N/A-blue.svg)
+![Github license](https://img.shields.io/badge/Language-JavaScript-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-MySQL-NodeJs-Inquirer-blue.svg)
 ## Dependencies
-inquirer version 6.3.1 and press-any-key version 0.1.1 
+Inquirer version 6.3.1 and MySQL2 version 3.6.1 
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
