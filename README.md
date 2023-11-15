@@ -6,10 +6,13 @@ I have never had a business or been in a position of authority over other human 
 ![alt-text](assets/Screenshot(92).png)
 department information                                                                                
 
-
 ![alt-text](assets/Screenshot(93).png)
 
-and information about the employees' various roles. *94 Also, by following simple menu prompts, a user can add information to roles, departments and current employee information. *95. I found working with MySQL especially challenging. I hope in future to add some additional features to the program including the ability to delete items.
+and information about the employees' various roles.                                                                                                                             
+
+![alt-text](assets/Screenshot(94).png) 
+
+Also, by following simple menu prompts, a user can add information to roles, departments and current employee information. *95. I found working with MySQL especially challenging. I hope in future to add some additional features to the program including the ability to delete items.
 
 ## Table of Contents
 * [Installation](#installation)
