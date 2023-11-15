@@ -5,7 +5,7 @@ by  Bradley Moleterno    ![Github license](https://img.shields.io/badge/license-
 I have never had a business or been in a position of authority over other human beings. Well maybe my children, but my authority over them was always questionable.   This week’s assignment of an employee tracker filled my megalomaniac head with visions of control and domination.  Alas, the assignment didn’t include remote shock collars or GPS tracking devices. Instead, Don’t Lose Track Employee Tracker is a content management system (CMS) which provides a user-friendly interface for non-technical users to add, edit, and view content. Don’t Lose Track Employee Tracker is a command-line application which allows a non-coder to manage a company's employee database. It uses Node.js and Inquirer. It also was our introduction to MySQL.  The user can view current employee information,
 ![alt-text](assets/Screenshot(92).png)
 department information 
-![alt-text](assets/Screenshot(92).png)
+![alt-text](assets/Screenshot(93).png)
 
 and information about the employees' various roles. *94 Also, by following simple menu prompts, a user can add information to roles, departments and current employee information. *95. I found working with MySQL especially challenging. I hope in future to add some additional features to the program including the ability to delete items.
 
