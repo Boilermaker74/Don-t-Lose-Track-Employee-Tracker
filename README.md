@@ -31,7 +31,7 @@ I found working with MySQL especially challenging. I hope in future to add some 
 * [Questions](#questions)
 
 ## Installation
-Installation is unfortunately complicated. The first step requires a local copy of the code to be cloned from the Boilermaker74 repo “Don't Lose Track Employee Tracker. The link is [HERE](https://github.com/Boilermaker74/Dont-Lose-Track-Employee-Tracker) The user must have Mysql installed on their machine. The installer program for MySQL can be located [here](https://dev.mysql.com/downloads/installer/).Once the repo code has been installed on the local machine, the user must make the directory ‘db’ the working directory. Type ‘MySQL -u root –p'. The program will prompt the user for their MySQL password:
+Installation is unfortunately complicated. The first step requires a local copy of the code to be cloned from the Boilermaker74 repo “Don't Lose Track Employee Tracker. The link is [HERE](https://github.com/Boilermaker74/Dont-Lose-Track-Employee-Tracker) The user must have Mysql installed on their machine. The installer program for MySQL can be located [here](https://dev.mysql.com/downloads/installer/). Once the repo code has been installed on the local machine, the user must make the directory ‘db’ the working directory. Type ‘MySQL -u root –p'. The program will prompt the user for their MySQL password. Enter it at the prompt. Type in the following commands: ‘SOURCE schema.sql;’ ‘ SOURCE seeds.sql;’ ‘exit’. Make the directory ‘employee tracker' the working directory. Type ‘npm install’ to load the required npm packages. Finally type ‘node .’ to start the application. The process is recorded in the walkthrough video.
 
 
 ![alt-text](assets/Screenshot(97).png)
