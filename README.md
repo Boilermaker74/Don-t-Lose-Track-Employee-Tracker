@@ -40,7 +40,7 @@ Make the directory ‘employee tracker' the working directory. Type ‘npm insta
 ## How to Use This Application:
 Use of the application is straight forward. Once ‘node .’ is typed in the command line, the welcome banner is displayed. 
 
-![alt-text](assets/Screenshot(92).png)
+![alt-text](assets/Screenshot(98).png)
 
 The options for the viewer consist of viewing current data or adding to existing data. If the user wishes to append the current database, the user will be prompted to add the appropriate information. Screen 95 The option ‘Quit’ exits the application and returns the user to the command line.  98 
 
