@@ -35,7 +35,7 @@ Installation is unfortunately complicated. The first step requires a local copy 
 
 ![alt-text](assets/Screenshot(97).png)
 
-Make the directory ‘employee tracker' the working directory. Type ‘npm install’ to load the required npm packages. Finally type ‘node .’ to start the application. The process is recorded in the walkthrough video.
+Make the directory ‘Employee Tracker' the working directory. Type ‘npm install’ to load the required npm packages. Finally type ‘node .’ to start the application. The entire process is recorded in the walkthrough video.
 
 ## How to Use This Application:
 Use of the application is straight forward. Once ‘node .’ is typed in the command line, the welcome banner is displayed. 
